@@ -1,8 +1,6 @@
 # remove-bg
 Remove.bg is a free service to remove the background of any photo. It works 100% automatically: You don't have to manually select the background/foreground layers to separate them - just select your image and instantly download the result image with the background removed!
 
-<img src="https://raw.githubusercontent.com/theapache64/remove-bg/master/demo.gif" width="300">
-
 ## Installation
 
 ```gradle
@@ -57,8 +55,4 @@ RemoveBg.from(imageFile, object : RemoveBg.RemoveBgCallback {
 
 This repository contains a complete example of the SDK.
 Download the project and compile with your [API-KEY](https://www.remove.bg/profile#api-key).
-
-### Author
-
-theapache64
 
