@@ -9,7 +9,7 @@ implementation 'com.technic.removebg:removebg:1.0.0'
 
 ### Usage
 
-Initialize the SDK from your `Application` class. You can get your key from [here](https://www.remove.bg/profile#api-key)
+Initialize the SDK from your `Application` class. You can get your key from [here](https://www.remove.bg/r/1BGpRCPUP1WS4Mzog6Sw9BCP)
 
 ```kotlin
 
@@ -54,5 +54,5 @@ RemoveBg.from(imageFile, object : RemoveBg.RemoveBgCallback {
 ### Example
 
 This repository contains a complete example of the SDK.
-Download the project and compile with your [API-KEY](https://www.remove.bg/profile#api-key).
+Download the project and compile with your [API-KEY](https://www.remove.bg/r/1BGpRCPUP1WS4Mzog6Sw9BCP)
 
